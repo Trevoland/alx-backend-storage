@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Module declares a redis class and methods"""
 import redis
